@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@android:id/background"
+        android:paddingBottom="3.0px"
+        android:paddingTop="3.0px">
+        <shape>
+            <corners android:radius="10.0dip" />
+
+            <gradient
+                android:centerColor="@color/real_blue"
+                android:endColor="@color/real_blue"
+                android:startColor="@color/real_blue" />
+        </shape>
+    </item>
+    <item
+        android:id="@android:id/secondaryProgress"
+        android:drawable="@drawable/music_progress_bg_white"
+        android:paddingBottom="3.0px"
+        android:paddingTop="3.0px"/>
+    <item
+        android:id="@android:id/progress"
+        android:drawable="@drawable/music_progress_bg_white"
+        android:paddingBottom="3.0px"
+        android:paddingTop="3.0px"/>
+
+</layer-list>

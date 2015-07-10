@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#fff</color>
+    <color name="music_bar_bg">#ff0093ff</color>
+    <color name="music_bar_end_bg">#ff00aaff</color>
+    <color name="real_blue">#ff0000ff</color>
+    <color name="sense_bg">#ffebecec</color>
+    <color name="divide_line_for_sense">#ffebecec</color>
+    <color name="text_sense">#ff878787</color>
+    <color name="light_gray">#ffcbcbcb</color>
+
+</resources>
